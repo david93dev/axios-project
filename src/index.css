@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Blinker";
+}
+
+body {
+  background-color: #0e1217;
+}
