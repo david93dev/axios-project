@@ -26,7 +26,7 @@ const Home = () => {
 }
 
   return (
-    <main className="flex justify-center items-center">
+    <main className="flex justify-center items-center bg-gray-950">
       <div className="max-w-[1000px] m-[2rem] px-auto py-[2rem] space-y-8">
         <h1 className="text-white text-6xl font-semibold text-center">
           Últimos posts
